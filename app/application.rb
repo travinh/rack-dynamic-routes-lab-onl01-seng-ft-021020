@@ -3,6 +3,6 @@ class Application
   @@items = []
 
   def call(env)
-    resp =
+    resp = 
   end
 end
